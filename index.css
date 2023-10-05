@@ -1,0 +1,17 @@
+nav ul {
+    text-align: center;
+}
+nav li {
+    display: inline-flex;
+}
+img {
+    width: 120px;
+    height: 120px;
+}
+footer p {
+    background-color: black;
+    color: white;
+}
+.parrafo2 {
+    color: red;
+}
